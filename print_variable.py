@@ -1,0 +1,10 @@
+a=10
+b=10.3
+c="Ashvin"
+d='Ashvin'
+e=1212121232
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
